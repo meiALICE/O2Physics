@@ -27,8 +27,8 @@ using namespace std;
 // ...
 #include <Framework/runDataProcessing.h>
 
-#include <TH1D.h>
 #include <TGrid.h>
+#include <TH1D.h>
 #include <TSystem.h>
 
 #include <string>
